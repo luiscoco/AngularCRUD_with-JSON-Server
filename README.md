@@ -1,5 +1,33 @@
 # CrudApp
 
+The video explaining the source code is available in the URL: https://www.youtube.com/watch?v=4mKY_yDq64g
+
+1.Install the project dependencies running the command:
+```
+npm install
+```
+or 
+```
+npm i
+```
+
+2.Install the JSON-Server(https://www.npmjs.com/package/json-server) globally, running the command:
+```
+npm i -g json-server
+```
+
+3.Run the JSON-Server with the command:
+```
+json-server --watch db.json
+```
+
+4.Finally, to run the application run the command:
+```
+ng serve-o
+```
+
+5.In the source code there is a db.json file in the root directory to initialize with values the server.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
 ## Development server
