@@ -1,5 +1,7 @@
 # Angular 15 CRUD App
 
+https://stackblitz.com/~/github.com/luiscoco/AngularCRUD_with-JSON-Server
+
 The video explaining the source code is available in the URL: https://www.youtube.com/watch?v=4mKY_yDq64g
 
 1.Install the project dependencies running the command:
